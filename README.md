@@ -1,4 +1,5 @@
-![DATA SCIENCE_page-0001](https://github.com/ReeSupp/desktop-tutorial/assets/142726717/fd1ed846-96d5-4cf8-b1d3-8800c9ab48e8)
+
+![DATA SCIENCE_page-0001](https://github.com/ReeSupp/CODSOFT-INTERNSHIP-PROJECTS/assets/142726717/7925e5fa-9dbb-4b10-a932-deba17d66d18)
 
 # Welcome to my Data Science Projects repository! Here, I showcase a collection of data-driven projects that I have completed during my internship at CODSOFT.
 
