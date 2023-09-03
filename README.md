@@ -2,5 +2,5 @@
 
 # Welcome to my Data Science Projects repository! Here, I showcase a collection of data-driven projects that I have completed during my internship at CODSOFT
 
-Task 1: TITANIC SURVIVAL PREDICTION
+# Task 1: TITANIC SURVIVAL PREDICTION
 Use the Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not.
