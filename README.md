@@ -1,5 +1,1 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+![DATA SCIENCE_page-0001](https://github.com/ReeSupp/desktop-tutorial/assets/142726717/fd1ed846-96d5-4cf8-b1d3-8800c9ab48e8)
